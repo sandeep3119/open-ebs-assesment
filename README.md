@@ -9,7 +9,8 @@
  2. cd to that folder
  
       ```cd open-ebs-assement```
- Note: install pip ```sudo apt get install python-pip```     
+ Note: install pip 
+ ```sudo apt-get install python-pip```     
   
  3. Apply the .yaml files to run the app.
  
